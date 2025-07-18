@@ -62,14 +62,16 @@ npm install
 ```bash
 npm run dev
 ```
-> [!Note] The output should look like:
+> [!Note]
+> The output should look like:
 ```bash
 VITE vX.Y.Z ready in XXX ms
 ➜ Local: http://localhost:5173/
 ➜ Network: http://your_ip_address:5173/
 ➜ press h to show help
 ```
-> [!Note] Modify the following files as needed
+> [!Note]
+> Modify the following files as needed
 ```ts
 // Main Logic
 App.tsx
@@ -82,7 +84,8 @@ index.css
 ```bash
 npm run build
 ```
-> [!Note] The output should like:
+> [!Note]
+> The output should like:
 ```bash
 ✓ built in XXXms
 dist/index.html   (and other optimized assets)
